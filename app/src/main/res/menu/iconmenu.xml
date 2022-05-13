@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="menu"
+    android:id="@+id/menu_home"
+    android:icon="@drawable/spoonfork"/>
+
+    <item android:title="cart"
+        android:id="@+id/menu_cart"
+        android:icon="@drawable/cart"/>
+    <item android:title="Order"
+        android:id="@+id/menu_order"
+        android:icon="@drawable/ordericon"
+        />
+
+    <item android:title="Logout"
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/logout"
+        />
+</menu>
